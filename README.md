@@ -1,6 +1,10 @@
 # Gizem Totkanlı  
 ### Data Scientist | Machine Learning • Deep Learning • Artificial Intelligence
 
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=900&color=22D3EE&width=750&lines=Building+end-to-end+ML+pipelines+from+EDA+to+deployment;Deep+Learning+%7C+NLP+%7C+LLMs+%7C+RAG;Analytics+%26+Decision+Support+with+measurable+impact" alt="Typing SVG" />
+</p>
+
 Welcome to my GitHub profile.
 
 I am a **Data Scientist** focused on **machine learning, deep learning, and applied artificial intelligence**, with experience in building **end-to-end data science workflows** ranging from data preparation and exploratory data analysis (EDA) to modeling, evaluation, and visualization.
