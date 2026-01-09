@@ -2,46 +2,48 @@
 ### Data Scientist | Machine Learning • Deep Learning • Artificial Intelligence
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=900&color=22D3EE&width=820&lines=Building+end-to-end+ML+pipelines+from+EDA+to+deployment;Deep+Learning+%7C+NLP+%7C+LLMs+%7C+RAG;Analytics+%26+Decision+Support+with+measurable+business+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=900&color=22D3EE&width=900&lines=Building+end-to-end+data+science+and+ML+systems;Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+LLMs+%7C+RAG;Data+Analytics+and+Decision+Support+with+measurable+business+impact" alt="Typing SVG" />
 </p>
 
 Welcome to my GitHub profile.
 
-I am a **Data Scientist** specializing in **machine learning, deep learning, and applied artificial intelligence**, with hands-on experience in designing and delivering **end-to-end data science solutions**—from data ingestion and exploratory analysis (EDA) to modeling, evaluation, deployment, and decision support.
+I am a **Data Scientist** with a strong background in **statistics, machine learning, data analytics, and applied artificial intelligence**, experienced in building **end-to-end data workflows** including data preparation, exploratory analysis, modeling, evaluation, and visualization.
 
-I hold a **Master’s degree in Management Information Systems (MIS)** with MBA-level coursework, enabling me to bridge **data, technology, and business strategy**. My work goes beyond building accurate models; I focus on **interpretability, analytical rigor, and measurable business impact**, ensuring that insights translate into actionable decisions.
+I hold an **M.Sc. in Management Information Systems (MIS)** and completed a comprehensive curriculum combining **core MIS and MBA-level coursework**. My academic training covered areas such as *Fundamentals of Management Information Systems, Systems Analysis and Design, Business Analytics and Big Data, Value Chain Management, and Project Management*, providing a solid foundation in **systems thinking and technology-driven business processes**.
 
-My professional background spans **data analysis, business analytics, and project-oriented roles**, where I have worked with diverse, real-world datasets and contributed to data-driven decision-making processes. In parallel, my experience as a **mathematics and science teacher** has strengthened my structured thinking, problem decomposition skills, and ability to communicate complex technical concepts clearly to both technical and non-technical stakeholders.
+In addition, I completed **MBA-level courses** including *Customer Relationship Management (CRM), Sustainable Management, Business Analytics and Research Methods, Big Data Management, and Low-Code Application Development*. This background strengthens my ability to **integrate analytics, data systems, and business strategy**, and to translate complex business requirements into **data-driven solutions and actionable insights**.
 
-I continuously deepen my expertise in **machine learning, deep learning, and AI**, with a particular interest in scalable pipelines, explainable models, and AI-driven decision support systems. I aim to contribute to teams that value **technical depth, analytical clarity, and collaborative problem-solving**.
+My professional experience as a **mathematics and science teacher** has reinforced a structured, analytical, and systems-oriented approach to problem solving, as well as clear communication of complex concepts. Long-term engagement with **percussion and drums**, together with **team-based sports such as basketball**, has contributed to strong discipline, focus, and a collaborative working style.
 
----
-
-## 🔍 Core Focus Areas
-
-- End-to-End Data Science Pipelines (EDA → Feature Engineering → Modeling → Evaluation → Deployment)
-- Machine Learning (Supervised & Unsupervised Learning)
-- Deep Learning (Neural Networks, CNNs, RNNs)
-- Applied Artificial Intelligence & Generative AI
-- Large Language Models (LLMs), Prompt Engineering & Retrieval-Augmented Generation (RAG)
-- Analytics, KPI Design & Decision Support Systems
+I continuously develop my expertise in **machine learning, deep learning, and AI**, aiming to contribute to teams that value **technical depth, analytical clarity, reproducibility, and real-world impact**.
 
 ---
 
-## 🧠 Machine Learning, Deep Learning & AI Skills
+## Core Focus Areas
 
-- Regression, Classification & Clustering
-- Feature Engineering, Model Evaluation & Validation
-- Cross-Validation & Hyperparameter Optimization
-- Neural Networks with TensorFlow & Keras
-- Natural Language Processing (NLP)
-- Embeddings, Semantic Search & RAG-based systems
+- End-to-end data science pipelines (EDA → feature engineering → modeling → evaluation)
+- Machine learning (supervised and unsupervised learning)
+- Deep learning (neural networks, CNNs, sequence models)
+- Applied artificial intelligence and generative AI
+- Large language models (LLMs), prompt engineering, and RAG systems
+- Data analytics, KPI design, and decision support systems
+
+---
+
+## Machine Learning, Deep Learning & AI Expertise
+
+- Regression, classification, and clustering
+- Feature engineering and model evaluation
+- Cross-validation and hyperparameter optimization
+- Neural networks with TensorFlow and Keras
+- Natural language processing (NLP)
+- Embeddings, semantic search, and retrieval-augmented generation (RAG)
 - LLM-based workflows using Hugging Face
-- Experiment Tracking & Model Monitoring
+- Experiment tracking, model monitoring, and reproducibility
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -58,8 +60,8 @@ I continuously deepen my expertise in **machine learning, deep learning, and AI*
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=flat&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker-4285F4?style=flat&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 **Languages**  
@@ -72,12 +74,12 @@ I continuously deepen my expertise in **machine learning, deep learning, and AI*
 
 **Artificial Intelligence & LLMs**  
 - Hugging Face  
-- Prompt Engineering  
-- Embeddings, Semantic Search, RAG  
+- Prompt engineering  
+- Embeddings, semantic search, RAG  
 
 **Data Engineering & Analytics**  
 - BigQuery, dbt  
-- ETL / ELT Pipelines  
+- ETL / ELT pipelines  
 
 **Visualization & BI**  
 - Power BI, Looker Studio  
@@ -88,37 +90,43 @@ I continuously deepen my expertise in **machine learning, deep learning, and AI*
 - Docker, FastAPI  
 
 **Workflow & Collaboration**  
-- VS Code  
 - Git, GitHub  
-- Agile & PMI-aligned Project Management  
+- Agile and PMI-aligned project management  
 
 ---
 
-## 📌 Selected Projects (Portfolio)
+## Selected Projects (Portfolio)
 
-The projects highlighted below represent **applied data science and AI work**, focusing on **real-world problem solving, analytical depth, and measurable business impact**.
+The repositories highlighted in my portfolio focus on **applied data science and AI**, emphasizing real-world problem solving, analytical rigor, and business relevance.
 
-- End-to-End Machine Learning Systems  
-- Business Analytics & KPI-Driven Dashboards  
-- Customer Segmentation & Behavioral Analysis  
-- NLP & LLM-Based AI Applications  
+- End-to-end machine learning systems  
+- Market basket analysis and recommendation engines  
+- Customer segmentation and behavioral analytics  
+- NLP and LLM-based AI applications  
 
-*(Portfolio projects are added progressively, with full documentation and reproducible pipelines.)*
+Projects are added progressively as documentation and results are finalized.
 
 ---
 
-## 🤝 Working Style
+## Working Style
 
 - Strong analytical foundation combined with business-oriented thinking  
-- Clear, structured communication of complex technical concepts  
-- Disciplined, methodical, and collaborative working approach  
-- Continuous learning and research-driven mindset in ML, DL, and AI  
+- Clear, structured communication of complex technical topics  
+- Disciplined, methodical, and reproducible approach to problem solving  
+- Collaborative mindset with continuous learning in ML, DL, and AI  
 
 ---
 
-## 📫 Contact
+## Contact
 
-- **LinkedIn:** https://linkedin.com/in/totkanligizem  
-- **GitHub:** https://github.com/totkanligizem  
-- **Kaggle:** https://kaggle.com/gtotkanli  
-- **Email:** totkanligizem@gmail.com
+<p align="left">
+  <a href="https://linkedin.com/in/totkanligizem" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:totkanligizem@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+GitHub: https://github.com/totkanligizem  
+Kaggle: https://kaggle.com/gtotkanli  
