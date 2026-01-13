@@ -130,11 +130,23 @@ My foundation blends **quantitative rigor** (Mathematics & Science Education), *
 - **B.Sc. Mathematics & Science Education** — Strong quantitative reasoning, structured problem solving, pedagogy  
 - **M.Sc. Management Information Systems (MIS)** — Systems thinking, business analytics, data-driven strategy  
 - **MBA-level Coursework (within MIS curriculum)** — Business Analytics, CRM, Sustainable Management, Big Data Management, Value Chain, Project Management, Research Methods, Low-Code App Development  
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Y%C4%B1ld%C4%B1z_Technical_University-111827?style=flat&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Istanbul_Bilgi_University-22D3EE?style=flat&logo=academia&logoColor=111827"/>
-  <img src="https://img.shields.io/badge/Istanbul_University-1D4ED8?style=flat&logo=academia&logoColor=white"/>
+  <a href="https://www.yildiz.edu.tr/" target="_blank">
+    <img src="assets/logos/ytu.png" height="22" alt="Yıldız Technical University"/>
+  </a>
+  <span style="display:inline-block;width:10px;"></span>
+
+  <a href="https://www.bilgi.edu.tr/" target="_blank">
+    <img src="assets/logos/bilgi.png" height="22" alt="Istanbul Bilgi University"/>
+  </a>
+  <span style="display:inline-block;width:10px;"></span>
+
+  <a href="https://www.istanbul.edu.tr/" target="_blank">
+    <img src="assets/logos/iu.png" height="22" alt="Istanbul University"/>
+  </a>
 </p>
+
 ---
 
 ## Project & Leadership Foundations
