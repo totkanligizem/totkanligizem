@@ -132,18 +132,18 @@ My foundation blends **quantitative rigor** (Mathematics & Science Education), *
 - **MBA-level Coursework (within MIS curriculum)** — Business Analytics, CRM, Sustainable Management, Big Data Management, Value Chain, Project Management, Research Methods, Low-Code App Development  
 
 <p align="left">
-  <a href="https://www.yildiz.edu.tr/" target="_blank">
-    <img src="assets/logos/ytu.png" height="22" alt="Yıldız Technical University"/>
+  <a href="https://www.yildiz.edu.tr/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/logos/ytu.png?raw=true" height="22" alt="Yıldız Technical University" />
   </a>
-  <span style="display:inline-block;width:10px;"></span>
+  &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.bilgi.edu.tr/" target="_blank">
-    <img src="assets/logos/bilgi.png" height="22" alt="Istanbul Bilgi University"/>
+  <a href="https://www.bilgi.edu.tr/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/logos/bilgi.png?raw=true" height="22" alt="Istanbul Bilgi University" />
   </a>
-  <span style="display:inline-block;width:10px;"></span>
+  &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.istanbul.edu.tr/" target="_blank">
-    <img src="assets/logos/iu.png" height="22" alt="Istanbul University"/>
+  <a href="https://www.istanbul.edu.tr/" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/logos/iu.png?raw=true" height="22" alt="Istanbul University" />
   </a>
 </p>
 
