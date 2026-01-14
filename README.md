@@ -133,17 +133,13 @@ My foundation blends **quantitative rigor** (Mathematics & Science Education), *
 
 <p align="left">
   <a href="https://www.yildiz.edu.tr/" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/logos/ytu.png?raw=true" height="22" alt="Yıldız Technical University" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
+    <img src="./assets/logos/ytu.png?raw=true" height="26" alt="Yıldız Technical University" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.bilgi.edu.tr/" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/logos/bilgi.png?raw=true" height="22" alt="Istanbul Bilgi University" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
+    <img src="./assets/logos/bilgi.png?raw=true" height="26" alt="Istanbul Bilgi University" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.istanbul.edu.tr/" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/logos/iu.png?raw=true" height="22" alt="Istanbul University" />
+    <img src="./assets/logos/iu.png?raw=true" height="26" alt="Istanbul University" />
   </a>
 </p>
 
