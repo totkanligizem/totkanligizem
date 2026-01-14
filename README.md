@@ -1,5 +1,5 @@
 # Gizem Totkanlı  
-### Data Scientist | Machine Learning • Deep Learning • Artificial Intelligence • Analytics • Decision Intelligence
+### Data Scientist | Machine Learning - Deep Learning - Artificial Intelligence - Analytics - Decision Intelligence
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=900&color=22D3EE&width=930&lines=Building+end-to-end+ML+pipelines%3A+EDA+%E2%86%92+Modeling+%E2%86%92+Deployment;Machine+Learning+%7C+Deep+Learning+%7C+NLP+%7C+LLMs+%7C+RAG;Analytics+%26+Decision+Support+with+measurable+business+impact;Data+Engineering+for+Analytics%3A+ELT%2FETL%2C+Warehouse+Modeling%2C+dbt;BI+Storytelling%3A+Executive+Dashboards+%28CEO%2FCFO%29+%26+KPI+Design" alt="Typing SVG" />
@@ -11,7 +11,6 @@ I’m a **Data Scientist** focused on building **reproducible, decision-oriented
 
 My foundation blends **quantitative rigor** (Mathematics & Science Education), **human-centered analysis** (Sociology), and **systems + business thinking** (MIS + MBA-level coursework), supported by project management discipline (PMI-aligned training) and real-world responsibility through leadership and volunteer work.
 
----
 
 ## Core Focus Areas
 - End-to-End Data Science Pipelines (EDA → Feature Engineering → Modeling → Evaluation → Deployment)
@@ -22,7 +21,6 @@ My foundation blends **quantitative rigor** (Mathematics & Science Education), *
 - Analytics Engineering (ELT/ETL, warehouse-friendly modeling, dbt-style transformations)
 - BI & Decision Support (KPI design, executive dashboards, stakeholder storytelling)
 
----
 
 ## Tech Stack (Tools & Platforms)
 
@@ -58,7 +56,6 @@ My foundation blends **quantitative rigor** (Mathematics & Science Education), *
 
 > **Note:** Tooling listed reflects the environments I’ve used across academic programs and hands-on analytics/ML workflows.
 
----
 
 ## Data Science & Machine Learning
 
@@ -75,7 +72,6 @@ My foundation blends **quantitative rigor** (Mathematics & Science Education), *
 - Cross-Validation, Hyperparameter Optimization, and Model Selection  
 - Interpretable ML (feature importance, error analysis, calibration mindset)  
 
----
 
 ## Deep Learning & Applied AI
 
@@ -92,7 +88,6 @@ My foundation blends **quantitative rigor** (Mathematics & Science Education), *
 - LLM applications: Prompting, tool-usage patterns, **RAG**, semantic search
 - Reproducibility mindset: experiment tracking habits, clean notebooks → scripts
 
----
 
 ## Data Engineering for Analytics
 
@@ -107,7 +102,6 @@ My foundation blends **quantitative rigor** (Mathematics & Science Education), *
 - SQL for scalable reporting and trustworthy KPI layers
 - Data quality habits (sanity checks, assumptions, reproducible transformations)
 
----
 
 ## BI, KPI Design & Decision Support
 
@@ -122,7 +116,6 @@ My foundation blends **quantitative rigor** (Mathematics & Science Education), *
 - Executive-ready storytelling (CEO/CFO views, segmentation, cohorts, trends)
 - Dashboard usability: filters/controls, naming, semantics, and interpretation
 
----
 
 ## Professional Profile (Education & Foundations)
 
@@ -131,26 +124,12 @@ My foundation blends **quantitative rigor** (Mathematics & Science Education), *
 - **M.Sc. Management Information Systems (MIS)** — Systems thinking, business analytics, data-driven strategy  
 - **MBA-level Coursework (within MIS curriculum)** — Business Analytics, CRM, Sustainable Management, Big Data Management, Value Chain, Project Management, Research Methods, Low-Code App Development  
 
-<p align="left">
-  <a href="https://www.yildiz.edu.tr/" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/logos/ytu.png?raw=true" height="26" alt="Yıldız Technical University" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.bilgi.edu.tr/" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/logos/bilgi.png?raw=true" height="26" alt="Istanbul Bilgi University" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.istanbul.edu.tr/" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/logos/iu.png?raw=true" height="26" alt="Istanbul University" />
-  </a>
-</p>
-
----
 
 ## Project & Leadership Foundations
 - **PMI-aligned Project Management training** (planning, scope, risk, communication cadence)
 - Agile mindset (iterative delivery, clear milestones, stakeholder alignment)
 - High-responsibility volunteering in **Search & Rescue** (discipline, teamwork, decision-making under pressure)
 
----
 
 ## Selected Projects (Portfolio)
 I build projects with **real-world framing**, clean documentation, and reproducible pipelines:
@@ -160,7 +139,6 @@ I build projects with **real-world framing**, clean documentation, and reproduci
 - NLP & LLM-Based AI Applications (Embeddings, Semantic Search, RAG)  
 - KPI-Driven Dashboards & Decision Support  
 
----
 
 ## Working Style
 - Structured thinking + practical execution  
@@ -168,7 +146,6 @@ I build projects with **real-world framing**, clean documentation, and reproduci
 - Strong communication (teaching background; executive-friendly outputs)  
 - Collaborative and disciplined delivery habits  
 
----
 
 ## Contact
 
