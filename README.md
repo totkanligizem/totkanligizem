@@ -1,64 +1,64 @@
 # Gizem Totkanlı  
-### Data Scientist | Machine Learning • Deep Learning • AI • Analytics • Decision Intelligence
+### Data Scientist | ML & AI  
+### Analytics • Business Intelligence • GenAI  
+### M.Sc. MIS, MBA-level coursework  
+### PMI-aligned Project Management  
 
 <p align="left">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=900&color=22D3EE&width=980&lines=I+build+decision-oriented+data+products%3A+data+%E2%86%92+models+%E2%86%92+metrics+%E2%86%92+delivery;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision+%7C+NLP+%7C+LLMs+%7C+RAG;Analytics+Engineering%3A+ELT%2FETL%2C+Warehouse+Modeling%2C+dbt%2C+Quality+Gates;Executive+BI%3A+CEO%2FCFO+Dashboards%2C+KPI+Design%2C+Decision+Support;Reliability+Mindset%3A+Leakage-Safe+Validation%2C+Reproducible+Pipelines%2C+Monitoring"
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=900&color=22D3EE&width=980&lines=I+build+reproducible+data+products%3A+data+%E2%86%92+models+%E2%86%92+metrics+%E2%86%92+delivery;Machine+Learning+%7C+Analytics+%7C+Business+Intelligence+%7C+GenAI;SQL+%7C+Python+%7C+BigQuery+%7C+dbt+%7C+BI+Dashboards+%7C+KPI+Design;Embeddings+%7C+Retrieval+%7C+RAG+%7C+Evaluation+%7C+Reproducible+Pipelines;Reliable+workflows%3A+clear+metrics%2C+quality+checks%2C+stakeholder-ready+delivery"
     alt="Typing SVG"
   />
 </p>
 
-Welcome to my GitHub 👋  
-I’m a **Data Scientist** focused on building **reproducible, decision-oriented data products**—from **data preparation** and **statistical analysis** to **ML/DL modeling**, **NLP/LLM applications**, and **analytics engineering** that powers trustworthy dashboards and operational decisions.
+Welcome to my GitHub 👋
 
-My foundation blends **quantitative rigor** (Mathematics & Science Education), **human-centered analysis** (Sociology), and **systems + business thinking** (MIS + MBA-level coursework), supported by **PMI-aligned project management** habits and documentation-first delivery.
+I’m a **Data Scientist** focused on building **reproducible, decision-support data products** across **data preparation**, **exploratory data analysis**, **statistical analysis**, **machine learning**, **business intelligence**, and **GenAI-oriented workflows**. I care about more than model output alone: I aim to frame the right problem, define meaningful metrics, and translate analysis into clear, trustworthy business outcomes.
 
----
-
-## Portfolio (Projects & Case Studies)
-All projects, demos, and write-ups live here:  
-➡️ **https://github.com/totkanligizem/portfolio**
-
-I treat each project as a **mini product**: clear objective → measurable metric → reproducible pipeline → delivery artifact.
+My foundation blends **quantitative rigor** from **Mathematics & Science Education**, **human-centered analysis** from **Sociology**, and **systems + business thinking** from **Management Information Systems (MIS) with MBA-level coursework**. I work with a **documentation-first**, **reliability-focused** mindset shaped by **PMI-aligned project discipline** and structured communication.
 
 ---
 
-## What I Build (Methods & Patterns)
+## Portfolio
+All projects, demos, and technical write-ups live here:  
+➡️ **[github.com/totkanligizem/portfolio](https://github.com/totkanligizem/portfolio)**
+
+I treat each project as a **mini product**:  
+**clear objective → measurable metric → reproducible workflow → delivery-ready artifact**
+
+---
+
+## What I Build
 
 ### End-to-End Data Science
-- Problem framing → hypothesis/assumptions → dataset design  
-- EDA, feature engineering, modeling, evaluation, error analysis  
-- **Leakage-safe validation** (pipeline discipline, train-only fit, CV hygiene)  
-- Packaging notebooks into clean scripts/modules for reproducibility
+- Problem framing, hypothesis design, and dataset strategy  
+- EDA, feature engineering, modeling, evaluation, and error analysis  
+- **Leakage-safe validation** with train-only fit discipline and CV hygiene  
+- Reproducible workflows that evolve from notebooks into clean, maintainable modules  
 
-### Machine Learning (Applied)
-- Regression / classification / clustering with robust baselines  
-- Cross-validation, hyperparameter optimization, model selection  
-- Model interpretability mindset (feature importance, calibration, failure modes)  
+### Machine Learning
+- Applied regression, classification, and clustering with robust baselines  
+- Cross-validation, hyperparameter tuning, and model selection  
+- Evaluation beyond score-chasing: interpretability, calibration, and failure-mode awareness  
 
-### Deep Learning & Computer Vision
-- Neural network training workflows (data augmentation, tuning, eval loops)  
-- Vision systems focus: detection, tracking, robustness under distribution shift  
-- Metric-driven reporting (task metrics + system behavior metrics)
-
-### NLP, LLMs & RAG
-- Embeddings, semantic search, reranking, retrieval diagnostics  
-- **RAG** with grounding, guardrails, and eval sets (faithfulness + usefulness)  
-- Prompt/tool patterns for reliable assistant behavior
+### GenAI, NLP & Retrieval
+- Embeddings, semantic retrieval, reranking, and retrieval diagnostics  
+- **RAG** workflows with grounding, guardrails, and evaluation-oriented design  
+- Prompt and tool patterns for practical, reliable assistant behavior  
 
 ### Analytics Engineering & Data Foundations
-- ELT/ETL principles, warehouse-friendly modeling, dbt-style layers  
-- Metric definitions, consistency checks, data quality gates  
-- BI-ready marts enabling scalable dashboards and stakeholder trust
+- ELT/ETL principles, warehouse-friendly modeling, and dbt-style transformation layers  
+- Metric definitions, consistency checks, and data quality gates  
+- BI-ready marts that support scalable dashboards and stakeholder trust  
 
 ### BI & Decision Support
-- KPI frameworks (definition, grain, drill-down, segmentation)  
-- Executive storytelling (CEO/CFO views) + operational monitoring  
-- UX discipline: filters/controls, naming, semantics, interpretation
+- KPI frameworks: definition, grain, drill-down, and segmentation  
+- Executive-facing dashboards, operational monitoring, and business storytelling  
+- Semantic clarity, naming discipline, filters, controls, and interpretable reporting  
 
 ---
 
-## Tech Stack (Tools & Platforms)
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -92,30 +92,30 @@ I treat each project as a **mini product**: clear objective → measurable metri
   <img src="https://img.shields.io/badge/Tableau-4E79A7?style=flat&logo=tableau&logoColor=white"/>
 </p>
 
-> Tooling listed reflects environments I’ve used across academic programs and hands-on analytics/ML workflows.
+> Tooling listed reflects environments I’ve used across academic training and hands-on analytics, ML, BI, and GenAI workflows.
 
 ---
 
-## Professional Profile (Education & Foundations)
-- **B.A. Sociology** — Human behavior, society, mixed-method perspectives  
-- **B.Sc. Mathematics & Science Education** — Quantitative reasoning, structured problem solving  
-- **M.Sc. Management Information Systems (MIS)** — Systems thinking, business analytics, data-driven strategy  
-- **MBA-level Coursework (within MIS curriculum)** — Business Analytics, CRM, Sustainable Management, Big Data Management, Value Chain, Project Management, Research Methods, Low-Code App Development  
+## Academic & Professional Foundations
+- **M.Sc. Management Information Systems (MIS)** — systems thinking, business analytics, and data-driven strategy  
+- **MBA-level coursework within MIS** — Business Analytics, CRM, Big Data Management, Sustainable Management, Value Chain, Project Management, Research Methods, and Low-Code Development  
+- **B.Sc. Mathematics & Science Education** — quantitative reasoning and structured problem solving  
+- **B.A. Sociology** — human behavior, society, and analytical interpretation  
 
 ---
 
 ## Project & Leadership Foundations
-- **PMI-aligned Project Management training** (scope, risk, planning, communication cadence)
-- Agile mindset (iterative delivery, clear milestones, stakeholder alignment)
-- High-responsibility volunteering in **Search & Rescue** (teamwork, discipline, decision-making under pressure)
+- **PMI-aligned Project Management** background with emphasis on scope, planning, risk, and communication  
+- Agile and iterative delivery mindset with clear milestones and stakeholder alignment  
+- High-responsibility volunteering in **Search & Rescue**, strengthening discipline, teamwork, and decision-making under pressure  
 
 ---
 
 ## Working Style
-- Structured thinking + practical execution  
-- Transparent assumptions, clean pipelines, reliable evaluation  
-- Strong communication (teaching background; executive-friendly outputs)  
-- Collaboration-ready, documentation-first delivery  
+- Structured thinking with practical execution  
+- Transparent assumptions, clean workflows, and reliable evaluation  
+- Clear communication for both technical and non-technical audiences  
+- Documentation-first, collaboration-ready delivery  
 
 ---
 
